@@ -1,0 +1,6 @@
+C:\Users\Kayes\documents\visual studio 2012\Projects\ContribeSpaFlickr\ContribeSpaFlickr\bin\ContribeSpaFlickr.dll
+C:\Users\Kayes\documents\visual studio 2012\Projects\ContribeSpaFlickr\ContribeSpaFlickr\bin\ContribeSpaFlickr.pdb
+C:\Users\Kayes\documents\visual studio 2012\Projects\ContribeSpaFlickr\ContribeSpaFlickr\bin\FlickrNet.dll
+C:\Users\Kayes\documents\visual studio 2012\Projects\ContribeSpaFlickr\ContribeSpaFlickr\obj\Debug\ContribeSpaFlickr.csprojResolveAssemblyReference.cache
+C:\Users\Kayes\documents\visual studio 2012\Projects\ContribeSpaFlickr\ContribeSpaFlickr\obj\Debug\ContribeSpaFlickr.dll
+C:\Users\Kayes\documents\visual studio 2012\Projects\ContribeSpaFlickr\ContribeSpaFlickr\obj\Debug\ContribeSpaFlickr.pdb
